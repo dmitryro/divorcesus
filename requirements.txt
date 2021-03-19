@@ -187,7 +187,7 @@ incremental==17.5.0
 ipaddress==1.0.18
 jingo==0.4
 jinja-bootstrap==0.4.0
-Jinja2==2.9.6
+Jinja2==2.11.3
 joblib==0.7.1
 Keras==1.1.1
 lxml==3.3.3
