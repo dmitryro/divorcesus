@@ -141,7 +141,7 @@ django-webpack==3.1.0
 django-wymeditor==1.0
 django-wysiwyg==0.8.0
 django-wysiwyg-redactor==0.5.1
-djangorestframework==3.7.3
+djangorestframework==3.11.2
 djangorestframework-bulk==0.2.1
 djangorestframework-digestauth==1.1.0
 djangorestframework-extensions==0.0.3
