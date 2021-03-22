@@ -206,7 +206,7 @@ jsmin==2.2.2
 jsonfield==2.0.2
 Keras==1.1.1
 kombu==4.1.0
-lxml==3.3.3
+lxml==4.6.3
 MarkupSafe==1.0
 matplotlib==1.3.1
 mccabe==0.6.1
