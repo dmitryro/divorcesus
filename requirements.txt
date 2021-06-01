@@ -276,7 +276,7 @@ twitter==1.17.1
 txaio==2.8.1
 ua-parser==0.7.0
 Unidecode==0.4.19
-urllib3==1.22
+urllib3==1.26.5
 user-agents==1.0.1
 uWSGI==2.0.12
 xapian-haystack==2.0.0
