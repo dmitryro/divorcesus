@@ -10,7 +10,7 @@ asyncio==3.4.3
 attrs==17.2.0
 autobahn==17.7.1
 Automat==0.6.0
-Babel==2.3.4
+Babel==2.9.1
 backports-abc==0.4
 backports.ssl-match-hostname==3.5.0.1
 BeautifulSoup==3.2.1
