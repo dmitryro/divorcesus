@@ -16,7 +16,7 @@ backports.ssl-match-hostname==3.5.0.1
 BeautifulSoup==3.2.1
 beautifulsoup4==4.5.3
 billiard==3.5.0.3
-celery==4.1.0
+celery==5.2.2
 certbot==0.19.0
 certbot-nginx==0.19.0
 certifi==2018.4.16
