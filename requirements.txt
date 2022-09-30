@@ -188,7 +188,7 @@ ipaddress==1.0.18
 jingo==0.4
 jinja-bootstrap==0.4.0
 Jinja2==2.9.6
-joblib==0.7.1
+joblib==1.2.0
 Keras==1.1.1
 lxml==3.3.3
 MarkupSafe==1.0
